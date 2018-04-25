@@ -1,3 +1,6 @@
+#VRChat Selfie Hero
+_This project is now in redundancy due to the addition of cameras in the latest patch 2018-04-24_
+
 
 Instructions:
 
